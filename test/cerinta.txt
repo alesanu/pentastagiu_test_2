@@ -1,0 +1,7 @@
+Scrieti o solutie pentru urmatoarea situatie: 
+Aveti un ceas care arata in felul urmator:(displayed on TV/projector - un exemplu)
+1. Becul rotund reprezinta secundele. Aprins inseamna ca a  trecut un numar par de secunde, stins inseamna ca e numar impar de secunde
+2. Urmatoarele 2 linii reprezinta orele 
+3. Ultimele 2 linii reprezinta minutele
+Afisati ora pe care ati primit-o ca set de date(cate un set de date pt fiecare) utilizand pentru fiecare interval de timp cate un simbol diferit. 
+Exemplu: pt 31 de secunde afisati I de atarea ori cate secunde de valoare impara au trecut de la inceputul minutului. Acelasi lucru pentru litera P( valoare para)
